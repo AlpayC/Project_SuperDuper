@@ -92,6 +92,7 @@ main .services h2{
 
 main .services p{
         margin-bottom: 300px;
+        text-transform: uppercase;
         }
 .services img{
     width: 80%;
